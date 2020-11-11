@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/onesignal.com/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/onesignal.com/static/js/main.8476998b.chunk.js",
-    "main.js.map": "/onesignal.com/static/js/main.8476998b.chunk.js.map",
+    "main.js": "/onesignal.com/static/js/main.b677a639.chunk.js",
+    "main.js.map": "/onesignal.com/static/js/main.b677a639.chunk.js.map",
     "runtime-main.js": "/onesignal.com/static/js/runtime-main.a1452be9.js",
     "runtime-main.js.map": "/onesignal.com/static/js/runtime-main.a1452be9.js.map",
-    "static/js/2.0a314240.chunk.js": "/onesignal.com/static/js/2.0a314240.chunk.js",
-    "static/js/2.0a314240.chunk.js.map": "/onesignal.com/static/js/2.0a314240.chunk.js.map",
+    "static/js/2.05d431f7.chunk.js": "/onesignal.com/static/js/2.05d431f7.chunk.js",
+    "static/js/2.05d431f7.chunk.js.map": "/onesignal.com/static/js/2.05d431f7.chunk.js.map",
     "static/js/3.cebe99d9.chunk.js": "/onesignal.com/static/js/3.cebe99d9.chunk.js",
     "static/js/3.cebe99d9.chunk.js.map": "/onesignal.com/static/js/3.cebe99d9.chunk.js.map",
     "index.html": "/onesignal.com/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/onesignal.com/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0a314240.chunk.js.LICENSE.txt": "/onesignal.com/static/js/2.0a314240.chunk.js.LICENSE.txt",
+    "static/js/2.05d431f7.chunk.js.LICENSE.txt": "/onesignal.com/static/js/2.05d431f7.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/onesignal.com/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1452be9.js",
-    "static/js/2.0a314240.chunk.js",
+    "static/js/2.05d431f7.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8476998b.chunk.js"
+    "static/js/main.b677a639.chunk.js"
   ]
 }
